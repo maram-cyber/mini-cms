@@ -21,3 +21,10 @@ Réponse :vendor/ est volumineux et entièrement généré ; composer install le
 ## 5. Git Credential Manager
 
 Réponse :Dans le Gestionnaire d'identification Windows (entrée git:https://github.com). On le supprime sur un poste de l'université, car la personne suivante pourrait pousser en votre nom ; on le garde sur son ordinateur personnel.
+## 6. Historique depuis lab-01
+
+Nombre de commits depuis lab-01 : Nombre de commits : 5 avant ce dernier commit (6 si le commit « Completer le travail de la session 01 » existe).
+
+Fichiers modifiés depuis lab-01 : Fichiers modifiés : les 5 fichiers listés à l'Étape 7 (notes/s02-git.md, routes/web.php, resources/views/a-propos.blade.php, screenshots/s02-a-propos.png, README.md), README.md ayant été modifié une deuxième fois par la partie 1, plus les fichiers éventuels du commit « Completer le travail de la session 01 ».
+
+Ce que git tag -n affiche pour lab-01 : git tag -n : lab-01 suivi du message du commit qu'il désigne (lab-01).
